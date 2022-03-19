@@ -1,7 +1,5 @@
-<?php
+ <?php
 
-
-   echo rand(10000,99999)
-
+  echo rand(10000,99999)
 
 ?>
