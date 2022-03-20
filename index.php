@@ -1,7 +1,7 @@
 <?php
+ 
+ include_once "./function.php";
+ echo heading("I love php");
 
 
-include_once "./function.php";
-
- echo getArea ('s',30,30);
 ?>
